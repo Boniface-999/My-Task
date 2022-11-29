@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    color: white;
+    background-color: black;
+    font-family: sans-serif;
+}
+audio{
+        position: relative; width: 500px; height: 50px;
+}
+h1{
+    border: 3px solid rgb(219, 190, 26);
+    position: relative; width: 200px; 
+    margin: 0 auto;
+}
+
+p{
+    font-size: 25px;
+}
+video{
+    width: 700px;
+    height: 500px;
+}
